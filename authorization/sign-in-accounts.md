@@ -30,7 +30,7 @@ These accounts are normally used to access enterprise resources and applications
 
 # Account Limitations
 
-In RCL apps, MSA accounts **cannot** be used to Manage Azure Resources such as App Services, Key Vault, DNS, etc. You must use an AAD Work or School Account to manage these services.
+In RCL apps, MSA accounts **cannot** be used to manage Azure Resources such as App Services, Key Vault, DNS, etc. You must use an AAD Work or School Account to manage these services.
 
 If you try to manage an Azure Resource with a MSA account you will get the following error.
 

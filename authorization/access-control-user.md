@@ -42,9 +42,11 @@ You can determine if your AAD organization user account is an 'Administrator' or
 
 # Set Owner or Contributor roles
 
-If the AAD user account that you use to log in to the RCL app is not an administrator in the Azure subscription, you need to add the AAD account as an ‘Owner’ or ‘Contributor’ to the Azure subscription.
+If the AAD user account that you use to log in to the RCL app is not an administrator in the Azure subscription, you need to add the AAD user account as an ‘Owner’ or ‘Contributor’ to the Azure subscription.
 
-- Click on the the ‘Access Control (IAM)’ link in the Subscription section
+**To perform this action, you must login with an Administrator account in your Azure Active Directory Tenant**.
+
+- Click on the the ‘Access Control (IAM)’ link in the Subscription 
 
 - Click on the ‘Add’ link at the top to add a new role
 
