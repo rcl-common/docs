@@ -7,13 +7,13 @@ nav_order: 2
 
 # Azure Active Directory Organization User Account
 
-An Azure Active Directory (AAD) organization user account is required to sign in to RCL apps to manage Azure resources. An organization user account is also called a **‘Work or School’ account**. Follow these steps to use an AAD user account in RCL apps.
+An Azure Active Directory (AAD) organization user account is required to sign in to RCL apps to manage Azure resources. An organization user account is also called a **‘Work or School’** account. Follow these steps to use an AAD user account in RCL apps.
 
 - In the Azure Portal, search for the **Azure Active Directory** and open it
 
 ![image](../images/authorization_signin/subscribe-aad-open.png)
 
-- In your tenant, click the ‘Users’ link
+- In your **AAD Tenant**, click the ‘Users’ link
 
 ![image](../images/authorization_signin/subscribe-aad-user-new.png)
 
@@ -45,7 +45,7 @@ You can also create a new user account to sign in to RCL apps.
 
 You should now sign in to the Azure Portal using the existing or new AAD Work or School account.
 
-If you subscribed to an RCL app with a MSA account and need to manage Azure resources, you must [associate your AAD Work or school account with your subscription](./sign-in-accounts).
+If you subscribed to an RCL app with a MSA account and need to manage Azure resources, you must [associate your AAD Work or school account with your subscription](./sign-in-accounts#associating-a-work-or-school-account-with-a-rcl-subscription).
 
 It is strongly recommended that you sign in with this AAD Work or School account in the Azure Portal when you subscribe to any of the RCL apps in the Azure Marketplace.
 

@@ -46,7 +46,7 @@ To associate an AAD Work or School account with a RCL subscription, follow these
 
 - Select or create a new AAD account in your AAD tenant. Refer to the following link for more information :
 
-[Azure Active Directory Organization User Account](./aad-account-user)
+- [Azure Active Directory Organization User Account](./aad-account-user)
 
 - In the Subscription section of the RCL app, click on the 'Work/School Account' menu item. Then, click on the button to associate your AAD Work or School account
 
@@ -66,7 +66,7 @@ Alternatively, you can assign the 'Contributor' or 'Owner' role to the Work or S
 
 Refer to the following link for more information :
 
-[Set Access Control for the AAD user account](./access-control-user)
+- [Set Access Control for the AAD user account](./access-control-user)
 
 
 

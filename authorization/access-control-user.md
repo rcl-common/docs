@@ -48,7 +48,7 @@ If the AAD user account that you use to log in to the RCL app is not an administ
 
 - Click on the ‘Add’ link at the top to add a new role
 
-- Add a “Contributor’ or ‘Owner’ role assignment to your subscription for the AAD user account that you use to login to RCL app
+- Add a 'Contributor’ or ‘Owner’ role assignment to your subscription for the AAD user account that you use to login to the RCL app
 
 ![image](../images/authorization_signin/access-control-create.png)
 
@@ -60,7 +60,7 @@ If the AAD user account that you use to log in to the RCL app is not an administ
 
 # Test Access Control
 
-Once access control is properly set up for the AAD user account that you use to login to the RCL app, you can open any page that requires subscription access to test it.
+Once access control is properly set up for the AAD user account that you use to login to the RCL app, you can open any page in the RCL app that requires Azure subscription access to test it.
 
 If the access control was correctly set, you will see the subscription in the drop down list.
 
