@@ -43,8 +43,6 @@ You can also create a new user account to sign in to RCL apps.
 
 # Sign In
 
-You should now sign in to the Azure Portal using the existing or new AAD Work or School account.
-
 If you subscribed to an RCL app with a MSA account and need to manage Azure resources, you must [associate your AAD Work or school account with your subscription](./sign-in-accounts#associating-a-work-or-school-account-with-a-rcl-subscription).
 
 It is strongly recommended that you sign in with this AAD Work or School account in the Azure Portal when you subscribe to any of the RCL apps in the Azure Marketplace.

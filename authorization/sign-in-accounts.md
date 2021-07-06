@@ -5,9 +5,9 @@ parent: Authorization
 nav_order: 1
 ---
 
-# Sign-In Accounts for RCL
+# Sign-In Accounts for RCL Apps
 
-You can subscribe for and sign in to an RCL app with :
+You can subscribe for, and sign in to an RCL app with :
 
 - Azure Active Directory organization user account (Work or School)
 - Microsoft personal account (MSA)
