@@ -36,9 +36,9 @@ If you try to manage an Azure Resource with a MSA account you will get the follo
 
 ![image](../images/authorization_signin/arm-consent-error.PNG)
 
-# Associating a Work or School Account with a Subscription
+# Associating a Work or School Account with a RCL Subscription
 
-If you subscribed to RCL with an MSA account, you must associate the subscription with an AAD Work or School account to manage Azure resources in RCL apps.
+If you subscribed to an RCL app with an MSA account, you must associate the subscription with an AAD Work or School account to manage Azure resources in the RCL app.
 
 This will allow you to login to your subscription with the AAD Work or School account.
 
@@ -60,9 +60,9 @@ To associate an AAD Work or School account with a RCL subscription, follow these
 
 # Access Control
 
-In RCL apps, to access resources in you Microsoft Azure account a further step is required. Your AAD Work or School account must be an 'Administrator' or 'Owner' on the subscription containing your azure resources. 
+In RCL apps, to access resources in you Microsoft Azure account a further step is required. Your AAD Work or School account must be an 'Administrator' or 'Owner' on the subscription containing your Azure resources. 
 
-Alternatively, you can assign the 'Contributor' or 'Owner' role to the Work or School account in your azure subscription.
+Alternatively, you can assign the 'Contributor' or 'Owner' role to the Work or School account in your Azure subscription.
 
 Refer to the following link for more information :
 
