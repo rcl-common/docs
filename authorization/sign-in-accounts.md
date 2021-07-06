@@ -7,7 +7,7 @@ nav_order: 1
 
 # Sign-In Accounts for RCL
 
-You can subscribe to and sign in to RCL apps with :
+You can subscribe for and sign in to an RCL app with :
 
 - Azure Active Directory organization user account (Work or School)
 - Microsoft personal account (MSA)
@@ -24,13 +24,13 @@ The MSA account is a personal Microsoft account. You usually register for one to
 
 ## Azure Active Directory Organization User Account
 
-The AAD Work or School account is issued to users by an organization from their **Active Directory Tenant**. 
+The AAD Work or School account is issued to users by an organization from their **Azure Active Directory Tenant**. 
 
 These accounts are normally used to access enterprise resources and applications provided by organizations to their employees or students.
 
 # Account Limitations
 
-In RCL apps, MSA accounts cannot be used to Manage Azure Resources such as App Services, Key Vault, DNS, etc. You must use an AAD Work or School Account to manage these services.
+In RCL apps, MSA accounts **cannot** be used to Manage Azure Resources such as App Services, Key Vault, DNS, etc. You must use an AAD Work or School Account to manage these services.
 
 If you try to manage an Azure Resource with a MSA account you will get the following error.
 
@@ -38,13 +38,13 @@ If you try to manage an Azure Resource with a MSA account you will get the follo
 
 # Associating a Work or School Account with a RCL Subscription
 
-If you subscribed to an RCL app with an MSA account, you must associate the subscription with an AAD Work or School account to manage Azure resources in the RCL app.
+If you subscribed to an RCL app with a MSA account, you must associate the RCL subscription with an AAD Work or School account to manage Azure resources in the RCL app.
 
-This will allow you to login to your subscription with the AAD Work or School account.
+This will allow you to login to your subscription with the AAD Work or School account and manage your Azure resources.
 
 To associate an AAD Work or School account with a RCL subscription, follow these steps.
 
-- Select or create a new AAD account in your AAD tenant. Refer to the following link for more information :
+- Select or create a new AAD 'Work or School' account in your AAD tenant. Refer to the following link for more information :
 
 - [Azure Active Directory Organization User Account](./aad-account-user)
 
