@@ -56,7 +56,7 @@ If the AAD user account that you use to log in to the RCL app is not an administ
 
 - Click on the the ‘Access Control (IAM)’ link in the Subscription 
 
-- Click on the ‘Add’ link at the top to add a new role
+- Click on the ‘Add’ link at the top and 'Add role assignment'
 
 - Add a 'Contributor’ or ‘Owner’ role assignment to your subscription for the AAD user account that you use to login to the RCL app
 
