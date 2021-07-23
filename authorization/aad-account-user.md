@@ -41,6 +41,18 @@ You can also create a new user account to sign in to RCL apps.
 
 - You can use this new AAD organization user account to login in to any of the RCL apps.
 
+# Disable Multi-Factor Authentication
+
+If you would like to disable multi-factor authentication (or the Microsoft Authenticator app) for user sign-in :
+
+- In the AAD tenant page, click on the 'Properties' link
+
+- At the bottom of the properties page, click on the 'Manage Security defaults' link
+
+- Select 'No' to Enable Security defaults and click the 'Save' button
+
+![image](../images/authorization_signin/aad-mf-disable.png)
+
 # Sign In
 
 To Access your Azure Resources with this new user account you will need to set up [Access Control for the AAD user](./access-control-user).
