@@ -7,7 +7,7 @@ nav_order: 2
 
 # Introduction 
 
-In this section, you will learn how to subscribe to a RCL App in the Azure Marketplace. This article applies to the following RCL Apps
+In this section, you will learn how to subscribe to a RCL App in the Azure Marketplace. This article applies to the following RCL Apps :
 
 - [RCL Client for Lets Encrypt](https://docs.rclapp.com/)
 - [RCL Web Apps](https://docs.webapps.rclapp.com/)
@@ -69,6 +69,9 @@ In this section, you will learn how to subscribe to a RCL App in the Azure Marke
 
 ![image](../images/subscription/cancel2.PNG)
 
+# Related Articles
 
+- [RCL Client for Lets Encrypt](https://docs.rclapp.com/)
+- [RCL Web Apps](https://docs.webapps.rclapp.com/)
 
 
