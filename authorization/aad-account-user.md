@@ -51,7 +51,7 @@ If you would like to disable multi-factor authentication (or the Microsoft Authe
 
 - Select 'No' to Enable Security defaults and click the 'Save' button
 
-![image](../images/authorization_signin/aad-mf-disable.png)
+![image](../images/authorization_signin/aad-mf-disable.PNG)
 
 # Sign In
 
