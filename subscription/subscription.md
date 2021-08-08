@@ -7,13 +7,19 @@ nav_order: 2
 
 # Introduction 
 
-In this section, you will learn how to subscribe to a RCL App in the Azure Marketplace.
+In this section, you will learn how to subscribe to a RCL App in the Azure Marketplace. This article applies to the following RCL Apps
+
+- [RCL Client for Lets Encrypt](https://docs.rclapp.com/)
+- [RCL Web Apps](https://docs.webapps.rclapp.com/)
 
 # RCL Subscription
 
-- In the Azure portal, search for the RCL App that you would like to subscribe to. Click on the ‘Setup+Subscribe’ button to add a subscription
+- In the Azure portal, search for the RCL App that you would like to subscribe to (eg. RCL Client for Lets Encrypt or RCL Web Apps).
 
-![image](../images/subscription/setup.PNG)
+- In the 'Marketplace' section, click on the RCL App you would like to subscribe to
+
+![image](../images/subscription/search-marketplace.PNG)
+
 
 - Complete the subscription and click the 'Review + subscribe' button
 
@@ -29,13 +35,13 @@ In this section, you will learn how to subscribe to a RCL App in the Azure Marke
 
 ![image](../images/subscription/configure.PNG)
 
-- In the RCL App, add a contact e-mail and click the 'Submit; button to activate the subscription
+- In the RCL App, add a contact e-mail and click the 'Submit' button to activate the subscription
 
 ![image](../images/subscription/activate.PNG)
 
 ## Unsubscribe for a RCL App 
 
-**You will unsubscribe for a RCL App in the Azure Portal.**
+**If uou need to unsubscribe, you will unsubscribe for a RCL App in the Azure Portal.**
 
 - You can access the RCL apps that you have subscribed to in the Azure portal.
 
@@ -43,7 +49,7 @@ In this section, you will learn how to subscribe to a RCL App in the Azure Marke
 
 ![image](../images/subscription/saas.PNG)
 
-- In the SaaS page, select the RCL App
+- In the SaaS page, select the RCL App that you would like to unsubscribe
 
 ![image](../images/subscription/saas-select.PNG)
 
