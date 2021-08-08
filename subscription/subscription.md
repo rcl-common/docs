@@ -39,11 +39,19 @@ In this section, you will learn how to subscribe to a RCL App in the Azure Marke
 
 ![image](../images/subscription/activate.PNG)
 
+- You can access the RCL apps that you have subscribed to in the Azure portal
+
+- In the Azure portal, search for Software as a Service (SaaS) and open it
+
+![image](../images/subscription/saas.PNG)
+
+- In the SaaS page you will see the RCL Apps that you have subscribed to
+
+![image](../images/subscription/saas-select.PNG)
+
 ## Unsubscribe for a RCL App 
 
 **If you need to unsubscribe, you will unsubscribe for a RCL App in the Azure Portal.**
-
-- You can access the RCL apps that you have subscribed to in the Azure portal.
 
 - In the Azure portal, search for Software as a Service (SaaS) and open it
 
