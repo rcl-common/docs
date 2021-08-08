@@ -41,7 +41,7 @@ In this section, you will learn how to subscribe to a RCL App in the Azure Marke
 
 ## Unsubscribe for a RCL App 
 
-**If uou need to unsubscribe, you will unsubscribe for a RCL App in the Azure Portal.**
+**If you need to unsubscribe, you will unsubscribe for a RCL App in the Azure Portal.**
 
 - You can access the RCL apps that you have subscribed to in the Azure portal.
 
