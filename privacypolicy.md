@@ -9,11 +9,11 @@ nav_order: 10
 
 ## Introduction
 
-This Privacy Policy outlines how Ray Consulting Limited will protect your personal information as you use the various RCL Apps created for the Azure Marketplace.
+This Privacy Policy outlines how Ray Consulting Limited will protect your personal information as you use the various RCL Apps.
 
 ## Personal Information
 
-We do not share your personal information with third parties nor do we store any information about your visit to our sites. We collect the following personal information : email, when you register with this site. This information is collected with your consent and it is used to contact you on issues related to your account. We respect your privacy.
+We do not share your personal information with third parties nor do we store any information about your visit to our sites. We collect personal information such as email, name and address when you register with an app. This information is collected with your consent and it is used to contact you on issues related to your account. We respect your privacy.
 
 ## Cookies
 
